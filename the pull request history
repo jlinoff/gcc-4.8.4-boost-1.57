@@ -1,0 +1,45 @@
+<![CDATA[
+Congrats to the New England Patriots for winning the Super Bowl. And what a heartbreaker for fans of the Seattle Seahawks! But it was a very close game and it could have gone either way. Both teams have a lot to celebrate. Just like any good football team reflects on their accomplishments at the end of the season, the Bitbucket team has a lot to celebrate, too. So we thought it would be fun to look back at what we achieved together in 2014. Thank you for making 2014 our best year yet and here&#8217;s to making 2015 even better.
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>Congrats to the New England Patriots for winning the Super Bowl. And what a heartbreaker for fans of the Seattle Seahawks! But it was a very close game and it could have gone either way. Both teams have a lot to celebrate. Just like any good football team reflects on their accomplishments at the end of the season, the Bitbucket team has a lot to celebrate, too. So we thought it would be fun to look back at what we achieved together in 2014. Thank you for making 2014 our best year yet and here&#8217;s to making 2015 even better.</p> <p><a href="https://blog.bitbucket.org/files/2015/02/2014-in-review-final.jpg" rel="lightbox[2412]"><img class="aligncenter wp-image-2416" src="https://blog.bitbucket.org/files/2015/02/2014-in-review-final.jpg" alt="2014-in-review-final" width="604" height="1534" /></a></p>
+]]>
+</content:encoded>
+<wfw:commentRss>
+http://blog.bitbucket.org/2015/02/05/bitbucket-2014-in-review/feed/
+</wfw:commentRss>
+<slash:comments>32</slash:comments>
+</item>
+<item>
+<title>New year, new features</title>
+<link>
+http://blog.bitbucket.org/2015/01/30/new-year-new-features/
+</link>
+<comments>
+http://blog.bitbucket.org/2015/01/30/new-year-new-features/#comments
+</comments>
+<pubDate>Fri, 30 Jan 2015 23:52:21 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Ike DeLorenzo ]]>
+</dc:creator>
+<category>
+<![CDATA[ atlassian ]]>
+</category>
+<category>
+<![CDATA[ bitbucket ]]>
+</category>
+<category>
+<![CDATA[ new stuff ]]>
+</category>
+<category>
+<![CDATA[ new features ]]>
+</category>
+<guid isPermaLink="false">https://blog.bitbucket.org/?p=2378</guid>
+<description>
+<![CDATA[
+It’s been a busy quarter for us at Bitbucket. As you may have noticed, Bitbucket is faster than ever, and even more reliable for our human users, cloning agents, and even for our robot friends who reach on behalf of CI systems and other integrations. We also have a bunch of new features that have
+]]>
+<![CDATA[
+launched recently. Here’s a recap: Merged pull requests in compare view It’s often useful to see the pull request history when comparing a branch to master, or between tags. In this way you could see all the features (and fixes) that have been pushed from, say &#8216;staging&#8217; to &#8216;deployed&#8217; versions of your application, shown as a list of pull requests. A tab called &#8216;Merged Pull Requests&#8217;
